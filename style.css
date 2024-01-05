@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;/*解決區塊變胖問題*/
+}
+
+.card {
+    width: 350px;
+    border-radius: 16px;/*在區塊四周加上圓角*/
+    overflow: hidden;
+    padding-top: 200px;
+}
